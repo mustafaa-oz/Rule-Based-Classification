@@ -1,4 +1,4 @@
-# Rule-Based-Classification-2
+# Rule-Based Classification
 # Business Problem
 - A game company wants to create level-based new customer personas using certain characteristics of their customers and 
  estimate how much revenue potential new customers from these segments could bring to the company.
